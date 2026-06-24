@@ -1,0 +1,50 @@
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# Python Cache
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+
+venv/
+env/
+.venv/
+
+# VS Code
+
+.vscode/
+
+# PyCharm
+
+.idea/
+
+# macOS
+
+.DS_Store
+
+# Windows
+
+Thumbs.db
+desktop.ini
+
+# Logs
+
+*.log
+
+# Temporary Files
+
+*.tmp
+
+# Python Distribution
+
+build/
+dist/
+*.egg-info/
+
+# Environment Variables
+
+.env
