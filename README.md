@@ -10,12 +10,12 @@ The objective is to identify customer characteristics associated with each tread
 
 ## 📄 Project Deliverables
 
-| Resource                                                                                                                                         | What You'll Find                                                                                                          |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
-
-| 📑 [Analysis Report](https://github.com/Richa-Jain108/aerofit-customer-profiling-analysis/blob/main/docs/Aerofit%20Analysis%20Report.pdf)        | Executive-ready report containing findings, customer personas, probability insights, and business recommendations         |
-| 📓 [Jupyter Notebook](https://github.com/Richa-Jain108/aerofit-customer-profiling-analysis/blob/main/notebooks/Aerofit_Customer_Profiling.ipynb) | Complete Python workflow including data cleaning, EDA, visualizations, statistical analysis, and probability calculations |
-| 📊 [Dataset Source](https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/125/original/aerofit_treadmill.csv?1639992749)            | Original AeroFit treadmill customer dataset                                                                               |
+| Resource                                                                                                                                              | What You'll Find                                                                                                                         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 📑 [Analysis Report](https://github.com/Richa-Jain108/aerofit-customer-profiling-analysis/blob/main/docs/Aerofit%20Analysis%20Report.pdf)             | Executive-ready report containing findings, customer profiles, probability insights, and business recommendations                        |
+| 📓 [Google Colab Notebook](https://github.com/Richa-Jain108/aerofit-customer-profiling-analysis/blob/main/notebooks/Aerofit_Customer_Profiling.ipynb) | Complete Python workflow including data cleaning, EDA, visualizations, statistical analysis, probability analysis, and business insights |
+| 📊 [Dataset Source](https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/125/original/aerofit_treadmill.csv?1639992749)                 | Original AeroFit treadmill customer dataset used for customer profiling and probability analysis                                         |
+                                                                           |
 
 ---
 
