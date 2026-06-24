@@ -1,18 +1,3 @@
-This is the version I would actually put on GitHub if the goal is to impress recruiters hiring for **Data Analyst / Business Analyst / Product Analyst / Remote Analytics roles**.
-
-It balances:
-
-* Business impact
-* Technical skills
-* Statistical analysis
-* Probability concepts
-* Clear deliverables
-* Professional presentation
-
-without looking like a course assignment.
-
----
-
 # 🏃 AeroFit Customer Profiling & Probability Analysis
 
 ### Customer Segmentation, Descriptive Statistics & Probability Analysis using Python
